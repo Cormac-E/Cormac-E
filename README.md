@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, Cormac here! 👋
+
+I am a recent MSc Computer Science graduate based in Dublin. 
+
+- 🤓 I am actively expanding my skill set, particularly in Python, Java, AWS, and Docker.
+- 🧑‍💻 I have experience working with Python, Django, SQL, Redis, AWS, Docker, and Flask among others.
+- 📫 Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/cormac-egan-3424a3215/).
+
 
 <!--
 **Cormac-E/Cormac-E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
